@@ -219,6 +219,7 @@ f(0,[],arr,5,7)
 //combination sum-2: pick once but unique answers
 
 arr = [1,1,1,2,2]
+arr.sort()
 
 def f(idx,temp,arr,n,target):
     if (target == 0):
@@ -235,7 +236,23 @@ def f(idx,temp,arr,n,target):
 
 f(0,[],arr,5,4)
 
+//subset sum-1: sum of all subsets in increasing order
 
+arr = [3,1,2]
+
+def f(idx,sum,arr,n,ans):
+    if (idx==n):
+        ans.append(sum)
+        return
+    sum+=arr[idx]
+    f(idx+1,sum,arr,n,ans)
+    sum-=arr[idx]
+    f(idx+1,sum,arr,n,ans)
+
+ans = []
+f(0,0,arr,3,ans)
+ans.sort()
+print(ans)
 
 
 
