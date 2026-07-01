@@ -12,3 +12,6 @@ Current topics covered ->
 6. Binary Search -> ADITYA VERMA
 7. Linked List -> LOVE BABBAR
 8. Stacks and Queue -> STRIVER + ADITYA VERMA
+9. Bitmasking -> LUV
+10. Heaps -> ADITYA VERMA
+11. Sliding Window -> ADITYA VERMA
