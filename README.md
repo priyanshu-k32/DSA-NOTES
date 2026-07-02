@@ -8,10 +8,9 @@ Current topics covered ->
 2. Dynamic Programming ( Parition DP left) -> STRIVER
 3. Graphs (DSU only theory) -> STRIVER
 4. Trees -> STRIVER
-5. Arrays -> STRIVER
+5. Arrays -> STRIVER + ADITYA VERMA
 6. Binary Search -> ADITYA VERMA
 7. Linked List -> LOVE BABBAR
 8. Stacks and Queue -> STRIVER + ADITYA VERMA
 9. Bitmasking -> LUV
 10. Heaps -> ADITYA VERMA
-11. Sliding Window -> ADITYA VERMA
