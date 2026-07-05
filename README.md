@@ -15,4 +15,3 @@ Current topics covered ->
 9. Bitmasking -> LUV
 10. Heaps -> ADITYA VERMA
 
-Hope you find this useful!
