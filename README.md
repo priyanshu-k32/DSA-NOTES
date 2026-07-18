@@ -5,7 +5,7 @@ I have attached  Introduction to Algorithms by Thomas H. Cormen, Charles E. Leis
 Current topics covered -> 
 0. STL Revision & Cheatsheet
 1. Recursion ( N queens and Sudoko left) -> STRIVER + ADITYA VERMA
-2. Dynamic Programming ( Parition DP left) -> STRIVER
+2. Dynamic Programming ( Parition DP only theory) -> STRIVER
 3. Graphs (DSU only theory) -> STRIVER
 4. Trees -> STRIVER
 5. Arrays -> STRIVER + ADITYA VERMA
